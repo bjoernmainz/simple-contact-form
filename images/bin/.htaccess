@@ -1,0 +1,26 @@
+<Files ~ "\.xml">
+	Order allow,deny
+	Deny from all
+</Files>
+
+<Files ~ "\.xml.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+
+<Files ~ "\.txt.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+
+<Files ~ "\.py">
+	Order allow,deny
+	Deny from all
+</Files>
+
+<Files ~ "\.jsx">
+	Order allow,deny
+	Deny from all
+</Files>

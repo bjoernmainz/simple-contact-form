@@ -1,0 +1,15 @@
+<Files ~ "\.xml">
+	Order allow,deny
+	Deny from all
+</Files>
+
+<Files ~ "\.xml.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+
+<Files ~ "\.txt.php">
+	Order allow,deny
+	Deny from all
+</Files>
