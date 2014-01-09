@@ -8,10 +8,10 @@ this is the fallback
 
 <mailconfiguration>
     <server>localhost</server>
-    <sender>bjoern@sha-bang.net</sender>
+    <sender>scf@sha-bang.net</sender>
     <subject>Kontakt: %form_name% %ticket_no%</subject>
     <!-- receivers: comma separated list -->
-    <receivers>bjoern@sha-bang.net</receivers>
+    <receivers>scf@sha-bang.net</receivers>
 
     <confirmation_subject lang="de">Ihre Nachricht: %ticket_no%</confirmation_subject>
     <confirmation_subject lang="en">Your Message: %ticket_no%</confirmation_subject>
